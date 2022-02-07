@@ -1,0 +1,53 @@
+1. Declear variable called 'country','contient' and 'population and assign their values according to your own country (population in million)
+log their values to the console.
+
+
+
+var country = "contient";
+
+let country = "Nigeria";
+
+
+Rules of declaring varible
+1. Never start naming a variable with upper case e.g const Surname`
+
+Primitive Data Type:-
+1. Strings - Words and texts and they are always put inside quotations marks. E.g 'Wisdom', 'Orange', 'Brown', etc.
+2. Numbers - Numbers are whole numbers that range from 1 to infinity. E.g 34,45,100,75, 1035 etc.
+Booleans - Booleans are used to return truthy or falsy values. They are true/ False.
+Undefined - Undefined values are variables that have no value in them. E.g Let Wardrobe;
+Null - Null values explain nothingness E.g (0)
+
+Operators in JavaScrip;
+
+four main categoreies of JavaScrapt Operators
+
+1. Assignment Operatiom- used to assign a value to a varible E.g equall to (=)
+2. Mathematical Operators- Are used to perform arithmetical operators E.g (+ - / * % **)
+3.  (Comparsion Operators) - Are used to compare two or more values together. comparison operators always return a Booleans value. E.g (> >= <= == === != !==)
+4. Logical operators - Are used to perform logic, logical operators alwats return a Booleans values e.g &&,||, !.
+The AND (&&) Logical operator is used when ALL the conditions are true
+The (||) logical operators is used when AT LEASE ONE condition is true
+The NOT (!) logical operator is used to negate a condition.
+
+
+
+Class Work
+1. Declare a variable called 'isIsland' and set its value according to your country. the variable should hold a Boolean value. Also declare a variable 'Language' but don't assign it any value yet.
+
+2. Log the type of 'isIsland', 'population','country', and 'language' to the console.
+
+
+/// NEW ASSIGNMENT
+
+Assignment: 
+
+1. Create a variable of student and store the value of your name in it;
+
+2. Create variables of school, course, favorite food, occupation, gender, age, isAnHonestPerson and use your own information as values for each of these variables. 
+
+3. Using string concatenation, create a variable called studentDescription that logs to the console the string using your own variables but using this format “Wisdom is a Web Developer and is a 30-year old male. It is true that Wisdom is honest and is a huge rice fan 😊”
+
+4. Create another variable called studentDescription2 that logs to the console the string above in question 3 but this time using template literals. 
+
+Good luck 😊
